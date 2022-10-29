@@ -1,0 +1,27 @@
+{
+	"name": "node-watermarker",
+	"version": "1.0.0",
+	"description": "",
+	"main": "dist/watermark.js",
+	"scripts": {
+		"build": "npx tsc"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sepehrsamavati/node-watermarker.git"
+	}, 
+	"author": "Sepehr Samavati",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/sepehrsamavati/node-watermarker/issues"
+	},
+	"homepage": "https://github.com/sepehrsamavati/node-watermarker#readme",
+	"dependencies": {
+		"canvas": "^2.10.1",
+		"image-size": "^1.0.2"
+	},
+	"devDependencies": {
+		"@types/node": "^18.11.7",
+		"typescript": "^4.8.4"
+	}
+}
