@@ -17,7 +17,7 @@
 	},
 	"homepage": "https://github.com/sepehrsamavati/node-watermarker#readme",
 	"dependencies": {
-		"canvas": "^2.10.1",
+		"canvas": "^2.10.2",
 		"image-size": "^1.0.2"
 	},
 	"devDependencies": {
